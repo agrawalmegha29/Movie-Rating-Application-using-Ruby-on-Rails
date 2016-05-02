@@ -2,9 +2,9 @@ Movie Rating Application using Ruby on Rails
 =================================================
 Project Description
 ------------------------
-- Developed a basic movie rating application using Ruby on Rails.
-- This application does the entire CRUD operations and allows the users to provide movie reviewes.
-- Along with that an additional comments section is provided in Show page of Rails for different users to provide their comments.
+- This is a basic movie rating application using Ruby on Rails.
+- This application performs the all the CRUD operations and allows the users to provide movie reviewes.
+- In addition to this, an additional comment section is provided in show page of rails wherein different users can put forward their opinions.
 - This application is based on MVC architecture of Rails and has two controllers for Review and Comments which are connected together and share a common database.
 
 
